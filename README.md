@@ -9,6 +9,9 @@ y de [cordapp-example](https://github.com/adal347/cordapp-example).
 Para *cordapp-example* necesitas el [jdk de java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 y [IntelliJ v2017.3](https://www.jetbrains.com/idea/download/previous.html).
 
+Para *cas-overlay-template* necesitarás [maven](https://maven.apache.org/download.cgi)
+y las variables de hambiente JAVA_HOME, M2_HOME y MAVEN_HOME.
+
 1. Instalar Corda
 
 ```dos
